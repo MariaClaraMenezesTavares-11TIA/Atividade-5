@@ -1,0 +1,17 @@
+*{
+    h1{
+        color: red;
+    }
+
+    h2{
+        color: orange;
+    }
+
+    h3{
+        color: blue;
+    }
+
+    body{
+        background-color: rgb(248, 242, 234);
+    }
+}
